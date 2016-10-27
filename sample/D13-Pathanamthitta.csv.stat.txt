@@ -1,0 +1,74 @@
+  1. id
+	<type 'int'>
+	Nulls: False
+	Min: 1
+	Max: 320415
+	Sum: 51331602288
+	Mean: 160695.487293
+	Median: 160698.5
+	Standard Deviation: 92217.8709082
+	Unique values: 319434
+  2. district
+	<type 'int'>
+	Nulls: False
+	Values: 13
+  3. tso
+	<type 'int'>
+	Nulls: False
+	Values: 16, 12, 13, 14, 15
+  4. ard
+	<type 'int'>
+	Nulls: False
+	Min: 0
+	Max: 245
+	Sum: 29241234
+	Mean: 91.5407689851
+	Median: 84.0
+	Standard Deviation: 59.270685249
+	Unique values: 246
+	5 most frequent values:
+		34:	2620
+		19:	2604
+		14:	2556
+		15:	2509
+		69:	2472
+  5. no
+	<type 'int'>
+	Nulls: False
+	Min: 1
+	Max: 844
+	Sum: 68147953
+	Mean: 213.339697715
+	Median: 194.0
+	Standard Deviation: 143.602596899
+	Unique values: 844
+	5 most frequent values:
+		1:	835
+		6:	833
+		24:	833
+		25:	833
+		20:	833
+  6. members
+	<type 'int'>
+	Nulls: False
+	Min: 1
+	Max: 20
+	Sum: 1272034
+	Mean: 3.98214967724
+	Median: 4.0
+	Standard Deviation: 1.57480147288
+	Unique values: 19
+	5 most frequent values:
+		4:	102967
+		3:	68946
+		5:	54190
+		2:	36047
+		6:	25213
+  7. priority
+	<type 'unicode'>
+	Nulls: False
+	Unique values: 25
+	5 most frequent values:
+		NP:	198651
+		P:	95946
+		Y:	24813
